@@ -1,0 +1,9 @@
+.git
+.gitignore
+.idea
+.DS_Store
+.editorconfig
+.circleci
+deployment
+docker
+node_modules/*
